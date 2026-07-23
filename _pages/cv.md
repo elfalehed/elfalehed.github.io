@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Independent Study in Pure Mathematics (Online), 2024–Present
+* Executive MBA, Business Administration, Management and Operations, IT Online, 2022 - 2023
 * Computer Science, University Studies, 2021–2022
 * High School Diploma in Computer Science, 2021
 
