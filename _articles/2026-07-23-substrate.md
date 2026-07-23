@@ -1,7 +1,7 @@
 ---
 title: "Substrate: Infrastructure for the gaps between what institutions promise and what they deliver."
-collection: publications
-category: manuscripts
+collection: articles
+category: essays
 permalink: /publications/substrate/
 date: 2026-07-23
 ---
