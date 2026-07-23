@@ -3,7 +3,7 @@ title: "Substrate: Infrastructure for the gaps between what institutions promise
 collection: publications
 category: manuscripts
 permalink: /publications/substrate/
-date: 2026- 07-23
+date: 2026-07-23
 ---
 For a business to exist it needs to solve an issue people have. You sell value through a product or a service that a certain audience/niche need. Across very different political and economic systems the same patterns repeats, instituions has a clear mandate that it needs to respect be it: insurring health costs, delivering mail or even something as simple as issuing documents and for some structural reason it stops reliably delivering on it. Substrate treats this as a systems problems rather than a relationship problem. The goal is to make the alternative layer legible: mapped with evidence, described in a common structure, and backed by a trust record that travels with an operator instead of dying with a phone number.
 
