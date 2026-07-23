@@ -81,12 +81,6 @@ Skills
   * API Strategy
   * Technical Product Leadership
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 Service and leadership
 ======
 * Founder of Tunisia's largest software developers community with more than 135,000 members.
