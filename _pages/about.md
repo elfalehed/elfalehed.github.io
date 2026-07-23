@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "When you design by meaning where your identity evolve through tools and meaningful business pursuits with rigor, driven by empirical feedback loops. This is what you get. "
+title: "When you design by meaning, your identity evolves through tools and meaningful business pursuits with rigor, driven by empirical feedback loops. This is what you get."
 author_profile: true
 redirect_from: 
   - /about/
