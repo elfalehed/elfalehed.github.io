@@ -11,54 +11,97 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Independent Study in Pure Mathematics (Online), 2024–Present
+* Computer Science, University Studies, 2021–2022
+* High School Diploma in Computer Science, 2021
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2026–Present: Founder & CEO
+  * Pulse Health
+  * Beijing, China
+  * Building a digital health company developing modern healthcare infrastructure, patient engagement platforms, electronic health records, and clinical workflow solutions for healthcare providers and governments.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023–Present: Founder
+  * ShareVest Holdings
+  * Beijing, China
+  * Investment architecture firm focused on designing financial infrastructure, investment platforms, and institutional technology in collaboration with financial institutions across Europe.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2018–Present: Founder & CEO
+  * PeakPulse Solutions Group
+  * Beijing, China
+  * Originated as a regional technology initiative in El Hamma, Gabès (Tunisia) before evolving into a consulting and venture-building group focused on technology strategy, digital transformation, product development, and emerging ventures.
+
+* February 2019–Present: Founder
+  * TPL Community
+  * Tunisia
+  * Founded and lead Tunisia's largest software developers community with more than 135,000 members, university clubs across the country, educational initiatives, industry partnerships, and career development programs.
+
+* 2021: Founder
+  * Programmers.tn
+  * Tunisia
+  * Founded a technology startup serving software developers and aspiring engineers. Operated for approximately nine months before closing, providing early entrepreneurial experience in product development, community building, and startup operations.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Entrepreneurship
+  * Venture Building
+  * Startup Strategy
+  * Executive Leadership
+  * Business Development
+  * Fundraising
+
+* Product & Strategy
+  * Product Management
+  * Product Strategy
+  * Systems Thinking
+  * Technology Strategy
+
+* Artificial Intelligence
+  * AI Product Design
+  * Retrieval-Augmented Generation (RAG)
+  * Workflow Automation
+  * AI Strategy
+
+* Finance
+  * Investment Architecture
+  * Financial Technology
+  * Quantitative Investing
+  * Capital Markets
+
+* Healthcare
+  * Digital Health
+  * Electronic Health Records
+  * Healthcare Infrastructure
+  * Health Technology Strategy
+
+* Technical Leadership
+  * Software Architecture
+  * Cloud Infrastructure
+  * API Strategy
+  * Technical Product Leadership
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder of Tunisia's largest software developers community with more than 135,000 members.
+* Established university clubs across Tunisia to promote software engineering, entrepreneurship, and technology education.
+* Building ventures across digital health, financial technology, artificial intelligence, and enterprise software.
+* Based in Beijing, China.
