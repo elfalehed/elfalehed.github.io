@@ -1,6 +1,6 @@
 ---
 title: "The effect of longitudinal Personal Health record engagement on Preventive care behavior and clinical outcomes"
-layout: talk
+layout: single
 collection: talks
 type: "Paper"
 venue: "MeetLab Istanbul"
