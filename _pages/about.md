@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "To build with those who understand: something a bit deeper, shallow fun, and a serious demeanor"
 author_profile: true
